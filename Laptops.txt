@@ -1,0 +1,7 @@
+2016 Lenovo 1980 Sofia IvanIvanov
+2017 ASUS 1998 Varna PetarIvanov
+2018 Apple 1976 Varna IvanPetrov
+2019 ASUS 1999 Sofia GeorgiGeorgiev
+2022 Lenovo 2002 Plovdiv IvanGeorgiev
+2021 Samsung 1982 Sofia GeorgiIvanov
+2010 HP 1999 Plovdiv PeshoPeshev
